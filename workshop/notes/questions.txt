@@ -1,0 +1,17 @@
+A)String Index Slicing:
+
+1.Write a Python program to get a substring from a given string using the slice operator.
+2.Create a program that reverses a given string using slicing.
+3.Write a program to remove the nth index character from a non-empty string using slicing.
+
+B)Functions-Related Programming:
+
+1.Create a Python function that takes a list of numbers as input and returns the sum of all the numbers in the list.
+2.Write a function that takes a string as input and returns the number of uppercase and lowercase letters in the string.
+3.Design a function that takes two numbers as input and returns the greatest common divisor (GCD) of the two numbers.
+
+C)If-else statement Programming:
+
+1.Write a Python program that takes an integer as input and prints "Positive" if the number is greater than 0, "Negative" if the number is less than 0, and "Zero" if the number is equal to 0.
+2.Create a program that takes a student's score as input and prints "Pass" if the score is greater than or equal to 50, and "Fail" if the score is less than 50.
+3.Write a Python program that takes two numbers as input and prints the larger number using "if-else" statements.

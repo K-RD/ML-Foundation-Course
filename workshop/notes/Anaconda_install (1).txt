@@ -1,0 +1,28 @@
+Steps to download Anaconda -->
+
+1.Download Anaconda:
+
+    Go to Google and Type Anaconda ,visit to the first link/website .
+    Download the installer for your Windows version (32-bit or 64-bit).
+
+2.Run Installer:
+
+    Double-click on the downloaded installer (e.g., Anaconda3-xxxxx-Windows-x86_64.exe).
+
+3.Follow Installation Wizard:
+
+    Click "Next" on the installer window.
+    Accept the license agreement.
+    Choose "Just Me" for user installation.
+    Select the installation location and Start Menu folder.
+    Click "Install."
+
+4.Finish Installation:
+
+   Wait for the installation to complete.
+   Check the option to add Anaconda to your PATH.
+   Click "Next" and then "Finish."
+
+5. Verify Installation:
+
+   Open Anaconda Navigator or a command prompt and run conda list to check installed packages.

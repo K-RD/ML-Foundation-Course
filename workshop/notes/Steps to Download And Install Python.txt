@@ -1,0 +1,23 @@
+Steps to Download And Install Python -->
+
+1.Visit Python's Official Website:
+
+    Go to python.org.
+
+2.Download Python:
+
+    Click on the "Downloads" tab.
+    Click on the version of Python you want to download (e.g., Python 3.8).
+
+3.Run Installer:
+
+    Once the download is complete, open the downloaded file (e.g., python-3.8.6.exe).
+
+4.Install Python:
+
+    Check the box that says "Add Python to PATH."
+    Click "Install Now" and wait for the installation to finish.
+
+5.Verify Installation:
+
+    Open a command prompt and type python --version to confirm the installation.
